@@ -33,5 +33,32 @@
       "petsAllowed": false,
       "organizer": "Cheick Hafedh"
     }
+  ],
+  "players": [
+    {
+      "name": "Omar Khaled",
+      "team": "Lions",
+      "score": 85
+    },
+    {
+      "name": "Salma Ben Ali",
+      "team": "Eagles",
+      "score": 72
+    },
+    {
+      "name": "Yassine Mabrouk",
+      "team": "Tigers",
+      "score": 95
+    },
+    {
+      "name": "Syrine Fekih",
+      "team": "Sharks",
+      "score": 63
+    },
+    {
+      "name": "Adem Selmi",
+      "team": "Wolves",
+      "score": 54
+    }
   ]
 }
